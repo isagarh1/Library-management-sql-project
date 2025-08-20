@@ -1,6 +1,6 @@
-Library Management System - SQL Project
+# Library Management System - SQL Project :
 
-** Objective :
+**Objective** :
 
  The goal of this project is to design and analyze a Library Management Database System using SQL. 
      
@@ -14,13 +14,13 @@ Library Management System - SQL Project
      
      • Understanding customer/member behavior and book rental trends.
 
-** Tools & Technologies Used :
+**Tools & Technologies Used** :
 
      • Database: PostgreSQL
 
      • Interface: pgAdmin 4
 
-• SQL Concepts Applied: 
+ **SQL Concepts Applied**: 
      
       • CRUD Operations (INSERT, UPDATE, DELETE, SELECT) 
      
@@ -32,9 +32,9 @@ Library Management System - SQL Project
      
       • Ranking & Ordering (LIMIT, ORDER BY) 
 
-** Project Tasks :- 
+**Project Tasks** :- 
 
-CRUD Operations :
+#### #CRUD Operations :
       
      • Insert new book records 
    
@@ -46,7 +46,7 @@ CRUD Operations :
     
      • List members with more than one issued book 
     
-** Data Analysis & Business Queries : 
+**Data Analysis & Business Queries** : 
 
      • Retrieve all books in a specific category 
      
@@ -58,7 +58,7 @@ CRUD Operations :
 
      • Retrieve list of books not yet returned 
      
-**Advanced Analysis :
+**Advanced Analysis** :
 
      • Overdue Books → Identify overdue members & calculate fines ($0.50/day). 
      
@@ -66,7 +66,7 @@ CRUD Operations :
      
      • Top Employees → Employees who processed the most book issues.
 
-Key Insights : 
+**Key Insights** : 
     
     - Some members have multiple overdue books, leading to significant fines. 
     
