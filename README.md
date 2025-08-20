@@ -8,8 +8,11 @@ This project simulates real-world library operations and answers key business qu
 • Understanding customer/member behavior and book rental trends.
 
 Tools & Technologies Used :
+
 • Database: PostgreSQL 
-• Interface: pgAdmin 4 
+
+• Interface: pgAdmin 4
+
 • SQL Concepts Applied: 
 o CRUD Operations (INSERT, UPDATE, DELETE, SELECT) 
 o Joins (INNER JOIN, LEFT JOIN) 
