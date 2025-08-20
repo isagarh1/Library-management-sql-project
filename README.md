@@ -76,3 +76,5 @@
     
     - Top 3 employees process the majority of book issues, indicating workload concentration.
 
+### Licence
+This project is licensed under the MIT License 
